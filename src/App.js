@@ -4,7 +4,6 @@ import Header from "./components/header/Header";
 export default function App() {
   return (
     <div className="overflow-x-hidden">
-      {/* header section */}
       <Header />
     </div>
   );
